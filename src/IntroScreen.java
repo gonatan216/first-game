@@ -18,7 +18,7 @@ public class IntroScreen extends JFrame {
 
         this.setLayout(null);
 
-        this.buttonForSkip = new JButton("Skip");
+        this.buttonForSkip = new JButton("Type here to skip");
         this.buttonForSkip.setFont(new Font("Arial", Font.BOLD, 15));
         this.buttonForSkip.setForeground(Color.BLACK);
         this.buttonForSkip.setBounds(1370, 870, 150, 30);
